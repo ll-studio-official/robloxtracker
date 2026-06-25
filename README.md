@@ -1,5 +1,4 @@
-Consultez notre [Guide détaillé](./tutofr.md)
-
+- Consultez notre [Guide détaillé](/ll-studio-official/robloxtracker/blob/main/tutofr.md)
 
 
 **Hello ! Tutorial for downloading the application.**
