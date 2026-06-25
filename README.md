@@ -1,3 +1,6 @@
+- Consultez notre [Guide détaillé](./tutofr.md)
+
+
 **Hello ! Tutorial for downloading the application.**
 
 Please note: the download is only available for Android devices.
