@@ -12,6 +12,8 @@ Your phone, tablet, other... will display "App blocked to protect your device" c
 
 That's it! You have installed the application.
 
+[A problem ?](https://github.com/ll-studio-official/robloxtracker/blob/main/problemEN.md)
+
 LL Studio Official 2026
 
 ------------------------------------------------------------------------------------------------------------------------
