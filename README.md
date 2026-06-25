@@ -32,4 +32,6 @@ Votre téléphone, tablette, etc. affichera « Application bloquée pour protég
 
 Et voilà ! L'application est installée.
 
+[Un problème ?](https://github.com/ll-studio-official/robloxtracker/blob/main/problemFR.md)
+
 LL Studio Official 2026
