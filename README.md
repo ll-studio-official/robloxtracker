@@ -1,4 +1,4 @@
-[Guide détaillé](https://github.com/ll-studio-official/robloxtracker/blob/main/tutofr)
+[Guide détaillé](https://github.com/ll-studio-official/robloxtracker/blob/main/tutofr.md)
 
 
 **Hello ! Tutorial for downloading the application.**
