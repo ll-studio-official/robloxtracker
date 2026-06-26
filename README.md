@@ -2,7 +2,7 @@
 
 Please note: the download is only available for Android devices.
 
-1) Click on app-release.apk 
+1) Click on [app-release.apk](https://github.com/ll-studio-official/robloxtracker/blob/main/app-release.apk) 
 
 2) Click on the 3 small dots in the top right corner
 
@@ -22,7 +22,7 @@ LL Studio Official 2026
 
 Remarque : le téléchargement est uniquement disponible pour les appareils Android.
 
-1) Cliquez sur app-release.apk
+1) Cliquez sur [app-release.apk](https://github.com/ll-studio-official/robloxtracker/blob/main/app-release.apk) 
 
 2) Cliquez sur les trois petits points en haut à droite
 
